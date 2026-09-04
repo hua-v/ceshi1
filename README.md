@@ -1,4 +1,4 @@
-<img width="1305" height="1197" alt="屏幕截图 2026-09-04 112407" src="https://github.com/user-attachments/assets/e9407f81-1bf9-4511-a0ec-bc9e5dc3db9a" /><img width="2552" height="1127" alt="屏幕截图 2026-09-04 112215" src="https://github.com/user-attachments/assets/ac3109f5-98ed-40c3-9488-69375e5ccb4d" />
+<img width="2552" height="1127" alt="屏幕截图 2026-09-04 112215" src="https://github.com/user-attachments/assets/ac3109f5-98ed-40c3-9488-69375e5ccb4d" />
 更改草快渲染距离，起始10000.结束15000，使草在10000以外缓慢剔除直到15000消失
 <img width="2475" height="1158" alt="屏幕截图 2026-09-04 112336" src="https://github.com/user-attachments/assets/3422de5d-5975-4c4f-be65-f2a94efb7fdc" />
 根据添加的平面来确定水平面往上一段距离为沙滩地形
